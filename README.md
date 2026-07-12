@@ -261,14 +261,6 @@ Apprenticeship under Ravi Dhingra Label — consumer camera redesign.
 
 </div>
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anandparth&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15&title=Repositories,Followers,Stars,Commits" alt="trophies" />
-
-</div>
-
 ## Contribution Activity
 
 <div align="center">
