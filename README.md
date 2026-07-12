@@ -45,7 +45,7 @@ Open To:  Senior Product Designer · UI/UX Designer · Design Systems / Design E
 **Design & Prototyping**
 
 <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai&theme=dark" alt="design tools" />
-<br/>
+
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![ProtoPie](https://img.shields.io/badge/ProtoPie-7C3AED?style=flat-square&logoColor=white)
 ![Lottie](https://img.shields.io/badge/Lottie-A78BFA?style=flat-square&logo=lottiefiles&logoColor=white)
@@ -53,7 +53,7 @@ Open To:  Senior Product Designer · UI/UX Designer · Design Systems / Design E
 **Frontend & Creative Code**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,threejs,blender&theme=dark" alt="frontend tools" />
-<br/>
+
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
 
@@ -67,7 +67,7 @@ Open To:  Senior Product Designer · UI/UX Designer · Design Systems / Design E
 **AI & Deployment Workflows**
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark" alt="deployment tools" />
-<br/>
+
 ![Claude](https://img.shields.io/badge/Claude-A78BFA?style=flat-square&logo=anthropic&logoColor=white)
 ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat-square&logo=midjourney&logoColor=white)
 
