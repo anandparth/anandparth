@@ -254,8 +254,8 @@ Apprenticeship under Ravi Dhingra Label — consumer camera redesign.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anandparth&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandparth&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-lyart-nine.vercel.app/api?username=anandparth&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-lyart-nine.vercel.app/api/top-langs/?username=anandparth&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=anandparth&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="GitHub Streak" width="48%" />
 
